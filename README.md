@@ -1,2 +1,2 @@
 # tzjanosi.github.io
-tesst purpose
+test purpose
